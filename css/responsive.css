@@ -1,0 +1,45 @@
+@media(max-width:1199px){
+.aboutImg img {width: 100%;}
+.aboutImg {padding-right: 0px;}
+.userInfo { margin-top: 30px;}
+.bannerArea { height: auto;}
+.stickey{position:initial;}
+.aboutArea {padding:80px 0px;}
+}
+@media(max-width:991px){
+.main-nav.navbar-expand-lg .navbar-nav .nav-link {padding-left: 15px;}
+.main-nav ul {  background-color: #ffffff;}
+.navbar-light .navbar-toggler { color: #000000c9; border-color: rgb(10 10 10 / 61%);}
+.BannerContent {padding: 60px 0px 80px 0px;}
+.bannerArea { height: auto;}
+.BannerContent span {font-size: 32px}
+.stickey{position:initial;}
+.aboutArea { padding: 80px 0px;}
+
+}
+
+
+
+@media(max-width:767px){
+.bannerArea {padding: 0px 0px 60px;}
+.BannerContent {padding: 80px 0px 80px 0px;}
+.contentHeading h2 {font-size: 32px;}
+.BannerContent span {color: #f52225; font-size: 30px; font-weight: 600;}
+.BannerContent { padding: 80px 0px 0px 0px;}
+.bannerArea { height: auto;}
+.aboutArea {padding: 80px 0px;}
+.aboutImg { padding-right: 0px;}
+.userInfo {margin-top: 30px;}
+.MyExperience .nav-pills a.nav-link { padding: 5px 8px;}
+.extra ul li { width: 100%;}
+.extra .list ul li p {margin-bottom: 4px;}
+.beny_tm_button {margin-top: 20px;}
+.beny_tm_button a, .beny_tm_button button { padding: 7px 19px;}
+.skills { margin-top: 30px;}
+.userInfo h3 {font-size: 25px;}
+.contact-list li { margin: 0 0 10px 0;}
+ul.contact-list li a {font-size: 17px;}
+}
+
+
+
